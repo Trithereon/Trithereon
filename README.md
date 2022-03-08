@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning full-stack web development, through The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 🎑 Trivia: Trithereon is a god of liberty and retribution. Alignment: Chaotic Good.
+- 🎑 Trivia: Trithereon is a DnD god of liberty and retribution.
 
 <!---
 Trithereon/Trithereon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
