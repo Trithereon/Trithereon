@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trithereon
-- 👀 I’m interested in building webapps for business
+- 👀 I’m interested in building websites and webapps for business
 - 🌱 I’m currently learning full-stack web development, through The Odin Project
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
