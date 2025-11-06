@@ -1,20 +1,17 @@
-<h1 style="text-align:center;">Hi, 👋 I’m @Trithereon</h1>
+# Hi, 👋 I’m Eliott Bourassa
+
 <p>I am interested in building and maintaining websites and web apps for business</p>
-<p>Currently learning full-stack web development</p>
-<p>Core tech stack: PERN - PostgreSQL, Express, React, NodeJS </p>
+<p>Learning full-stack web development the right way, with a strong focus on fundamentals and projects</p>
 
 ---
-
 ### About Me
 
-- Passionate about learning and building
-- From fixing PCs to full stack web apps
-- Started coding in 2023 with [The Odin Project](https://www.theodinproject.com/)  
-- Love designing responsive, user-first websites  
-- Always leveling up, one bug fix at a time 
+- Highly curious and passionate about learning and building
+- Friends and family rely on me to fix their PCs and devices
+- I'm a tenacious problem-solver who enjoys the puzzle within a bug
+- Self-taught learner, currently completing [The Odin Project](https://www.theodinproject.com/paths), Full Stack JavaScript path
 
 ---
-
 ### Tech Stack
 
 
@@ -27,12 +24,11 @@
 #### Upcoming additions
 <!-- To be added once completed in The Odin Project: react,tailwind,bootstrap,express,mongodb,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,express,mongodb,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,express,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion" />
 </a>
 <br>
-<span>react, tailwind, bootstrap, express, mongodb, postgres, prisma, pug, vite, vitest, docker, postman, babel, gcp, notion</span>
+<span>React, Tailwind, Bootstrap, Express, PostgreSQL, Prisma, Pug, Vite, Vitest, Docker, Postman, Babel, GCP, Notion</span>
 
 ---
-
-<p>How to reach me: send an email to github.pristine812@passinbox.com</p>
-<p>Trivia: Trithereon is a Dungeons & Dragons god of liberty and retribution.</p>
+### How to reach me
+Send an email to [github.pristine812@passinbox.com](mailto:github.pristine812@passinbox.com)
