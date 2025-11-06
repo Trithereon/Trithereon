@@ -10,6 +10,7 @@
 - Friends and family rely on me to fix their PCs and devices
 - I'm a tenacious problem-solver who enjoys the puzzle within a bug
 - Self-taught learner, currently completing [The Odin Project](https://www.theodinproject.com/paths), Full Stack JavaScript path
+- Websites I have built while learning: [Portfolio](https://Trithereon.github.io/odin-projects)
 
 ---
 ### Tech Stack
@@ -31,4 +32,6 @@
 
 ---
 ### How to reach me
-Send an email to [github.pristine812@passinbox.com](mailto:github.pristine812@passinbox.com)
+- [github.pristine812@passinbox.com](mailto:github.pristine812@passinbox.com)
+- [LinkedIn](https://www.linkedin.com/in/eliottbourassa/)
+
