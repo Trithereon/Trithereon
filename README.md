@@ -1,7 +1,7 @@
 # Hi, 👋 I’m Eliott Bourassa
 
-<p>I'm interested in building and maintaining websites and web apps for business</p>
-<p>Learning full-stack web development the right way, with a strong focus on fundamentals and projects</p>
+<p>Interested in building and maintaining websites and web apps for business</p>
+<p>Currently learning full-stack web development the right way, with a strong focus on fundamentals and projects</p>
 
 ---
 ### About Me
