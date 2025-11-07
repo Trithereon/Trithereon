@@ -8,7 +8,7 @@
 
 - Highly curious and passionate about learning and building
 - Friends and family rely on me to fix their PCs and devices
-- I'm a tenacious problem-solver who enjoys the puzzle within a bug
+- I'm a tenacious problem-solver who enjoys the game of fixing bugs and errors
 - Self-taught learner, currently completing [The Odin Project](https://www.theodinproject.com/paths), Full Stack JavaScript path
 - Websites I have built while learning: [Portfolio](https://Trithereon.github.io/odin-projects)
 
