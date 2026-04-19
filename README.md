@@ -17,18 +17,18 @@
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,webpack,jest,vscode,ubuntu,github,npm" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,webpack,jest,vscode,ubuntu,github,npm,supabase,docker,vite,react" />
 </a>
 <br>
-<span>HTML - CSS - Javascript - NodeJS - Webpack - Jest - VScode - Ubuntu - Github - npm</span>
+<span>HTML - CSS - Javascript - NodeJS - Webpack - Jest - VScode - Ubuntu - Github - npm - Supabase - Docker - Vite - React</span>
 
 #### Upcoming additions
 <!-- To be added once completed in The Odin Project: react,tailwind,bootstrap,express,mongodb,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,express,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postgres,prisma,pug,vitest,postman,babel,gcp,notion" />
 </a>
 <br>
-<span>React, Tailwind, Bootstrap, Express, PostgreSQL, Prisma, Pug, Vite, Vitest, Docker, Postman, Babel, GCP, Notion</span>
+<span>Tailwind, Bootstrap, Express, PostgreSQL, Prisma, Pug, Vitest, Postman, Babel, GCP, Notion</span>
 
 ---
 ### How to reach me
