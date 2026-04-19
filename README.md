@@ -17,10 +17,10 @@
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,webpack,jest,vscode,ubuntu,github,npm,supabase,docker,vite,react" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,webpack,jest,vscode,ubuntu,github,npm,supabase,docker,vite,react,cloudflare" />
 </a>
 <br>
-<span>HTML - CSS - Javascript - NodeJS - Webpack - Jest - VScode - Ubuntu - Github - npm - Supabase - Docker - Vite - React</span>
+<span>HTML - CSS - Javascript - NodeJS - Webpack - Jest - VScode - Ubuntu - Github - npm - Supabase - Docker - Vite - React- Cloudflare</span>
 
 #### Upcoming additions
 <!-- To be added once completed in The Odin Project: react,tailwind,bootstrap,express,mongodb,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion -->
