@@ -17,18 +17,18 @@
 
 
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,webpack,jest,vscode,ubuntu,github,npm,supabase,docker,vite,react,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,webpack,jest,babel,vscode,ubuntu,github,npm,supabase,docker,vite,react,cloudflare" />
 </a>
 <br>
-<span>HTML - CSS - Javascript - NodeJS - Webpack - Jest - VScode - Ubuntu - Github - npm - Supabase - Docker - Vite - React- Cloudflare</span>
+<span>HTML - CSS - Javascript - NodeJS - Webpack - Jest - Babel - VScode - Ubuntu - Github - npm - Supabase - Docker - Vite - React- Cloudflare</span>
 
 #### Upcoming additions
-<!-- To be added once completed in The Odin Project: react,tailwind,bootstrap,express,mongodb,postgres,prisma,pug,vite,vitest,docker,postman,babel,gcp,notion -->
+<!-- To be added once completed in The Odin Project: react,tailwind,bootstrap,express,mongodb,postgres,prisma,pug,vite,vitest,docker,postman,gcp,notion -->
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postgres,prisma,pug,vitest,postman,babel,gcp,notion" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,express,postgres,prisma,pug,vitest,postman,gcp,notion" />
 </a>
 <br>
-<span>Tailwind, Bootstrap, Express, PostgreSQL, Prisma, Pug, Vitest, Postman, Babel, GCP, Notion</span>
+<span>Tailwind, Bootstrap, Express, PostgreSQL, Prisma, Pug, Vitest, Postman, GCP, Notion</span>
 
 ---
 ### How to reach me
